@@ -43,7 +43,7 @@
 
 - [CodeHire](https://code-hire.priyanshuvaliya.me)
 - [Threads](https://threads-b9qr.onrender.com)
-- [Google Notes](https://google-notes.onrender.com)
+- [Google Notes](https://google-notes-mrbxgsina-priyanshuvaliyas-projects.vercel.app/)
 - [Youtube](https://youtube-clone-swart-eight.vercel.app)
 - [ShopCart](https://priyanshuvaliya-shopcart.onrender.com)
 - [Simon Game](https://simon-game-khaki-nine.vercel.app)
