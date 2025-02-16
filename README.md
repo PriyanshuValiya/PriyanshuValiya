@@ -42,6 +42,7 @@
 <h2 align="left">My Projects :</h2>
 
 - [CodeHire](https://code-hire.priyanshuvaliya.me)
+- [v0-clone](https://v0-clone-azure.vercel.app)
 - [Threads](https://threads-b9qr.onrender.com)
 - [Google Notes](https://google-notes-mrbxgsina-priyanshuvaliyas-projects.vercel.app/)
 - [Youtube](https://youtube-clone-swart-eight.vercel.app)
