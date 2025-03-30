@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshuvaliya&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshuvaliya" /> </p>
 
 - 👨‍💻 Portfolio : [portfolio.priyanshuvaliya.me](https://portfolio.priyanshuvaliya.me)
-- 📄 Resume : [PriyanshuValiya_Resume](https://drive.google.com/file/d/1B1xiA8jWIaQIOmH2X19W7wrfB6v83kqz/view)
+- 📄 Resume : [PriyanshuValiya_Resume](https://drive.google.com/file/d/1T-r4mebVSDqTKX-Wt-kL4aosUYvr4BVU/view)
 - 📫 How to reach me valiyapriyansukumar@gmail.com
 - ⚡ LeetCode https://leetcode.com/u/valiyapriyansukumar
 - 🤝 I’m looking to collaborate on **Open Source Projects**
