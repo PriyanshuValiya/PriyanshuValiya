@@ -1,54 +1,128 @@
-<h1 align="center">Hello 👋, I'm Priyanshu Valiya</h1>
-<h3 align="center">A Passionate Software Engineer From India.</h3>
+<h1 align="center">Hi, I'm Priyanshu Valiya 👋</h1>
+<h3 align="center">Software Engineer | Full-Stack | Cloud & DevOps Focused</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshuvaliya&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshuvaliya" /> </p>
+<p align="center">
+  <a href="https://www.priyanshuvaliya.dev">🌐 Portfolio</a> •
+  <a href="https://assets-priyanshuvaliya.s3.ap-south-1.amazonaws.com/PriyanshuValiya_Resume.pdf">📄 Resume</a> •
+  <a href="mailto:valiyapriyansukumar@gmail.com">📫 Email</a> •
+  <a href="https://leetcode.com/u/valiyapriyansukumar">⚡ LeetCode</a>
+</p>
 
-- 👨‍💻 Portfolio : [priyanshuvaliya.dev](https://www.priyanshuvaliya.dev/)
-- 📄 Resume : [PriyanshuValiya_Resume](https://assets-priyanshuvaliya.s3.ap-south-1.amazonaws.com/PriyanshuValiya_Resume.pdf)
-- 📫 How to reach me valiyapriyansukumar@gmail.com
-- ⚡ LeetCode https://leetcode.com/u/valiyapriyansukumar
-- 🤝 I’m looking to collaborate on **Open Source Projects**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=priyanshuvaliya&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-<h2 align="left">Connect with me:</h2>
+---
 
-- Linkedin : [priyanshu-valiya19012006](https://www.linkedin.com/in/priyanshu-valiya19012006)
-- Twitter : [ValiyaPriyanshu](https://x.com/ValiyaPriyanshu?t=fODhuE-xes8Cv9nksqHe1w&s=08)
-- Mail : valiyapriyansukumar@gmail.com
-- DEV : [PriyanshuValiya](https://dev.to/priyansukumar_valiya_c0bf)
-- Phone : +91 6351597276
+## 🧠 About Me
 
-<h2 align="left">Languages and Tools:</h2>
+I’m a **Computer Science undergraduate** from India who builds **production-grade web systems**, not just demos.
 
-**Frontend Development**
-- **Markup & Styling**: HTML, CSS, Bootstrap, Tailwind
-- **Frameworks & Libraries**: React, Redux, Next.js
-- **Design Tools**: Figma
+I focus on:
+- Designing **scalable backend architectures**
+- Building **cloud-native applications on AWS**
+- Automating workflows with **CI/CD and event-driven systems**
+- Writing code that survives real users, not just recruiters
 
-**Backend Development**
-- **Languages**: Node.js, Java, Python
-- **Frameworks**: Express
-- **APIs**: Gemini API
+I actively contribute to **open source**, participate in **hackathons**, and ship projects end-to-end.
 
-**Database Management**
-- **NoSQL**: MongoDB
-- **SQL**: MySQL, PostgreSQL
+---
 
-**Version Control**
-- Git, GitHub
+## 🛠 Tech Stack
 
-**DevOps & Containerization**
-- Docker
+### Frontend
+- **Languages & Styling:** HTML, CSS, Tailwind, Bootstrap  
+- **Frameworks:** React, Redux, Next.js  
+- **Design:** Figma
 
-<h2 align="left">My Projects :</h2>
+### Backend
+- **Languages:** Node.js, Java, Python  
+- **Frameworks:** Express.js  
+- **APIs:** Gemini API, REST
 
-- [CodeHire](https://code-hire.priyanshuvaliya.me)
-- [v0-clone](https://v0-clone-azure.vercel.app)
-- [Threads](https://threads-b9qr.onrender.com)
-- [Google Notes](https://google-notes-mrbxgsina-priyanshuvaliyas-projects.vercel.app/)
-- [Youtube](https://youtube-clone-swart-eight.vercel.app)
-- [ShopCart](https://priyanshuvaliya-shopcart.onrender.com)
-- [Simon Game](https://simon-game-khaki-nine.vercel.app)
-- [Country Infos](https://priyanshuvaliya.github.io/Country-Info)
-- [Spotify](https://spotify-clone-git-main-priyanshuvaliyas-projects.vercel.app)
-- [ShopDeal](https://shop-deal-priyanshuvaliyas-projects.vercel.app/index.html)
-- [PizzaHut](https://www.figma.com/proto/M89FIqF8TtPFMIfi00ddMN/Pizza-Hut?type=design&node-id=3-7&t=XDRYa8Hul8JAvtRW-0&scaling=scale-down&page-id=0%3A1)
+### Databases
+- **SQL:** PostgreSQL, MySQL  
+- **NoSQL:** MongoDB  
+- **Vector DB:** Pinecone  
+- **BaaS:** Supabase
+
+### Cloud & DevOps
+- **AWS:** EC2, S3, Lambda  
+- **Containerization:** Docker  
+- **CI/CD:** GitHub Actions  
+- **Infra & Networking:** Nginx, Cloudflare  
+- **OS & Tools:** Linux, Git, GitHub
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 CodeRat – AI Code Reviewer & Repo Analyzer
+🔗 https://code-hire.priyanshuvaliya.me  
+
+- AI-powered GitHub PR review system using **AST parsing + RAG**
+- Event-driven workflows with **Next.js, Inngest & Prisma**
+- Vector search via **Pinecone**, AI inference with **Gemini**
+- Deployed on **AWS EC2 + Docker + Nginx**
+
+---
+
+### 🔹 CodeHire – AI Interview & ATS Platform
+🔗 https://code-hire.priyanshuvaliya.me  
+
+- Automated **technical + behavioral interview system**
+- AI resume generator & ATS score analyzer
+- Built with **Next.js, Express, MongoDB, Gemini API**
+
+---
+
+### 🔹 Vercel-Like CI/CD Platform
+🔗 https://v0-clone-azure.vercel.app  
+
+- One-click deployment system for frontend & backend apps
+- GitHub-triggered builds & automated redeployments
+- AWS-based cloud-native architecture
+
+---
+
+### 🔹 Threads – Social Media Platform
+🔗 https://threads-b9qr.onrender.com  
+
+- User profiles, posts, likes, comments & real-time chat
+- Built with **React, Node.js, Socket.IO, MongoDB**
+
+---
+
+## 🧪 Other Projects
+- Google Notes Clone  
+- YouTube Clone  
+- Spotify Clone  
+- ShopCart / ShopDeal (E-commerce)  
+- Simon Game  
+- Country Info App  
+- Pizza Hut UI (Figma)
+
+*(Yes, some are clones. They exist to prove fundamentals, not innovation.)*
+
+---
+
+## 🤝 Open Source & Community
+- Hacktoberfest Contributor  
+- GirlScript Summer of Code (GSSoC)  
+- College Open Source Competition – **Rank 8**
+
+---
+
+## 📬 Connect With Me
+
+- **LinkedIn:** https://www.linkedin.com/in/priyanshu-valiya19012006  
+- **Twitter (X):** https://x.com/ValiyaPriyanshu  
+- **DEV:** https://dev.to/priyansukumar_valiya_c0bf  
+- **Email:** valiyapriyansukumar@gmail.com  
+
+---
+
+### ⚠️ Final Note
+
+If you’re here expecting shallow tutorials or half-baked projects — wrong profile.  
+If you care about **real systems, clean architecture, and scalable engineering** — welcome.
