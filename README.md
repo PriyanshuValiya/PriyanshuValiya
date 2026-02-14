@@ -5,6 +5,7 @@
   <a href="https://www.priyanshuvaliya.dev">🌐 Portfolio</a> •
   <a href="https://assets-priyanshuvaliya.s3.ap-south-1.amazonaws.com/PriyanshuValiya_Resume.pdf">📄 Resume</a> •
   <a href="mailto:valiyapriyansukumar@gmail.com">📫 Email</a> •
+  <a href="https://www.linkedin.com/in/priyanshu-valiya/">LinkedIn</a> •
   <a href="https://leetcode.com/u/valiyapriyansukumar">⚡ LeetCode</a>
 </p>
 
@@ -115,14 +116,7 @@ I actively contribute to **open source**, participate in **hackathons**, and shi
 
 ## 📬 Connect With Me
 
-- **LinkedIn:** https://www.linkedin.com/in/priyanshu-valiya19012006  
+- **LinkedIn:** https://www.linkedin.com/in/priyanshu-valiya  
 - **Twitter (X):** https://x.com/ValiyaPriyanshu  
 - **DEV:** https://dev.to/priyansukumar_valiya_c0bf  
 - **Email:** valiyapriyansukumar@gmail.com  
-
----
-
-### ⚠️ Final Note
-
-If you’re here expecting shallow tutorials or half-baked projects — wrong profile.  
-If you care about **real systems, clean architecture, and scalable engineering** — welcome.
