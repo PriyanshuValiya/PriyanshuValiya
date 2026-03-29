@@ -64,7 +64,7 @@ Actively targeting **Backend / Cloud / DevOps Engineering** roles.
 
 ## 🚀 Featured Projects
 
-### CodeRat — AI-Powered Pull Request Review & Repo Analyzer
+### CodeRat - AI-Powered Pull Request Review & Repo Analyzer
 🔗 [Live Project](https://coderat.priyanshuvaliya.dev) | [Demo Video](https://assets-priyanshuvaliya.s3.ap-south-1.amazonaws.com/Coderat.mp4)
 
 `Node.js` `Inngest` `PostgreSQL` `Prisma ORM` `Pinecone` `Gemini Flash` `AWS EC2` `Terraform` `Docker` `Nginx` `Kubernetes` `Cloudflare`
@@ -77,7 +77,7 @@ Actively targeting **Backend / Cloud / DevOps Engineering** roles.
 
 ---
 
-### Vercel Clone — Self-Hosted CI/CD Deployment PaaS
+### Vercel Clone - Self-Hosted CI/CD Deployment PaaS
 🔗 [Live Project](https://vercel.priyanshuvaliya.dev) | [Demo Video](https://assets-priyanshuvaliya.s3.ap-south-1.amazonaws.com/Vercel.mp4)
 
 `Node.js` `Express.js` `Next.js` `AWS EC2` `Amazon S3` `Docker` `GitHub Webhooks` `Nginx` `Resend`
