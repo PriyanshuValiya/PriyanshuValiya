@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Priyanshu Valiya 👋</h1>
-<h3 align="center">Software Engineer | Full-Stack | Cloud & DevOps Focused</h3>
+<h3 align="center">AI Native, Cloud & Backend Engineer · 2× AWS Certified (SAA-C03, CLF-C02)</h3>
 
 <p align="center">
-  <a href="https://www.priyanshuvaliya.dev">🌐 Portfolio</a> •
-  <a href="https://assets-priyanshuvaliya.s3.ap-south-1.amazonaws.com/PriyanshuValiya_Resume.pdf">📄 Resume</a> •
-  <a href="mailto:valiyapriyansukumar@gmail.com">📫 Email</a> •
+  <a href="https://www.priyanshuvaliya.dev">Portfolio</a> •
+  <a href="https://assets-priyanshuvaliya.s3.ap-south-1.amazonaws.com/PriyanshuValiya_Resume.pdf">Resume</a> •
+  <a href="mailto:hello@priyanshuvaliya.dev">Email</a> •
   <a href="https://www.linkedin.com/in/priyanshu-valiya/">LinkedIn</a> •
-  <a href="https://leetcode.com/u/valiyapriyansukumar">⚡ LeetCode</a>
+  <a href="https://leetcode.com/u/valiyapriyansukumar">LeetCode</a>
 </p>
 
 <p align="center">
@@ -17,106 +17,116 @@
 
 ## 🧠 About Me
 
-I’m a **Computer Science undergraduate** from India who builds **production-grade web systems**, not just demos.
+I'm a **2× AWS Certified Cloud engineer** and pre-final year CS undergraduate who ships production-grade, event-driven systems - not just demos.
 
-I focus on:
-- Designing **scalable backend architectures**
-- Building **cloud-native applications on AWS**
-- Automating workflows with **CI/CD and event-driven systems**
-- Writing code that survives real users, not just recruiters
+- 🚀 Built an AI-powered RAG pipeline that cut **manual code review time by 60%**
+- ⚡ Achieved **sub-200 ms vector retrieval latency** at concurrent GitHub webhook load with **zero message loss**
+- 🏗️ Reduced infrastructure provisioning from hours → a **single `terraform apply`**
+- 👥 Led a 6-member team delivering a RBAC portal to **100+ active faculty users**
 
-I actively contribute to **open source**, participate in **hackathons**, and ship projects end-to-end.
+Actively targeting **Backend / Cloud / DevOps Engineering** roles.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
+
+### Backend & APIs
+- **Runtime & Frameworks:** Node.js, Express.js, Next.js, REST APIs, WebSockets (Socket.IO), Microservices
+- **Async & Event-driven:** Inngest (Event Queues), GitHub Webhooks, Pub/Sub Patterns
+
+### Databases & Storage
+- **SQL:** PostgreSQL, MySQL · **NoSQL:** MongoDB, Redis
+- **Vector DB:** Pinecone · **ORM & Object Storage:** Prisma ORM, Amazon S3
+
+### Cloud & Infrastructure as Code
+- **AWS:** EC2, S3, VPC, IAM, CloudWatch, ECS, ECR
+- **IaC:** Terraform · **Networking:** Nginx, Cloudflare, SSL/TLS, Private Subnets
+
+### Containers & Orchestration
+- Docker, Kubernetes, Docker Compose
+
+### CI/CD & Automation
+- GitHub Actions, GitHub Webhooks, Jenkins, Event-driven Pipelines, Bash Scripting
+
+### Auth & Security
+- RBAC, JWT / Session Auth, IAM Least-Privilege, Security Groups
+
+### AI / ML Integration
+- RAG Pipelines, AST Parsing, Pinecone Vector Search, Gemini Flash API, Inngest
 
 ### Frontend
-- **Languages & Styling:** HTML, CSS, Tailwind, Bootstrap  
-- **Frameworks:** React, Redux, Next.js  
-- **Design:** Figma
+- React.js, Next.js, Tailwind CSS
 
-### Backend
-- **Languages:** Node.js, Java, Python  
-- **Frameworks:** Express.js  
-- **APIs:** Gemini API, REST
-
-### Databases
-- **SQL:** PostgreSQL, MySQL  
-- **NoSQL:** MongoDB  
-- **Vector DB:** Pinecone  
-- **BaaS:** Supabase
-
-### Cloud & DevOps
-- **AWS:** EC2, S3, Lambda  
-- **Containerization:** Docker  
-- **CI/CD:** GitHub Actions  
-- **Infra & Networking:** Nginx, Cloudflare  
-- **OS & Tools:** Linux, Git, GitHub
+### Languages
+- JavaScript, TypeScript, Python, Java, Bash
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 CodeRat – AI Code Reviewer & Repo Analyzer
-🔗 https://code-hire.priyanshuvaliya.me  
+### CodeRat — AI-Powered Pull Request Review & Repo Analyzer
+🔗 [Live Project](https://coderat.priyanshuvaliya.dev) | [Demo Video](https://assets-priyanshuvaliya.s3.ap-south-1.amazonaws.com/Coderat.mp4)
 
-- AI-powered GitHub PR review system using **AST parsing + RAG**
-- Event-driven workflows with **Next.js, Inngest & Prisma**
-- Vector search via **Pinecone**, AI inference with **Gemini**
-- Deployed on **AWS EC2 + Docker + Nginx**
+`Node.js` `Inngest` `PostgreSQL` `Prisma ORM` `Pinecone` `Gemini Flash` `AWS EC2` `Terraform` `Docker` `Nginx` `Kubernetes` `Cloudflare`
 
----
-
-### 🔹 CodeHire – AI Interview & ATS Platform
-🔗 https://code-hire.priyanshuvaliya.me  
-
-- Automated **technical + behavioral interview system**
-- AI resume generator & ATS score analyzer
-- Built with **Next.js, Express, MongoDB, Gemini API**
+- **60% reduction** in manual code review time via a RAG pipeline with AST-level PR parsing and Pinecone vector indexing
+- **Sub-200 ms context retrieval latency** achieved using pre-computed embeddings with Pinecone vector search, significantly reducing AI inference overhead
+- Processed concurrent GitHub webhook payloads with **zero message loss** using Inngest for reliable async orchestration
+- Automated infrastructure provisioning with Terraform — **2 EC2 instances in private VPC subnets** with least-privilege IAM, collapsing multi-hour manual setup to `terraform apply`
+- Normalised PostgreSQL schema via Prisma ORM, supporting multi-repository indexing with **transactional safety across concurrent write operations**
 
 ---
 
-### 🔹 Vercel-Like CI/CD Platform
-🔗 https://v0-clone-azure.vercel.app  
+### Vercel Clone — Self-Hosted CI/CD Deployment PaaS
+🔗 [Live Project](https://vercel.priyanshuvaliya.dev) | [Demo Video](https://assets-priyanshuvaliya.s3.ap-south-1.amazonaws.com/Vercel.mp4)
 
-- One-click deployment system for frontend & backend apps
-- GitHub-triggered builds & automated redeployments
-- AWS-based cloud-native architecture
+`Node.js` `Express.js` `Next.js` `AWS EC2` `Amazon S3` `Docker` `GitHub Webhooks` `Nginx` `Resend`
 
----
-
-### 🔹 Threads – Social Media Platform
-🔗 https://threads-b9qr.onrender.com  
-
-- User profiles, posts, likes, comments & real-time chat
-- Built with **React, Node.js, Socket.IO, MongoDB**
+- Engineered a production-grade self-hosted CI/CD platform cutting project onboarding from hours → **under 2 minutes**
+- Containerised multi-tenant build-worker architecture with **dynamic Docker lifecycle management** enabling horizontal scaling for concurrent deployments
+- GitHub Webhooks ingestion layer triggering fully **automated build pipelines on push events** — zero manual intervention
+- S3-backed artifact storage with **programmatic pre-signed URL generation** for secure, stateless build output access
+- Dynamic subdomain proxy with **custom SSL certificates** routing live preview traffic to isolated build artifacts
 
 ---
 
-## 🧪 Other Projects
-- Google Notes Clone  
-- YouTube Clone  
-- Spotify Clone  
-- ShopCart / ShopDeal (E-commerce)  
-- Simon Game  
-- Country Info App  
-- Pizza Hut UI (Figma)
+## 💼 Experience
 
-*(Yes, some are clones. They exist to prove fundamentals, not innovation.)*
+### OceanLab Technology - Software Engineering Intern
+`May – Jun 2025` · Remote · `React.js` `Next.js` `Socket.IO`
+
+- Built a production WebSocket module using Socket.IO for real-time stock price streaming, achieving **sub-100 ms UI refresh latency** under continuous live data throughput
+- Delivered **two production features in a single month** with zero post-deployment rollbacks
+- Developed a multi-category Income/Expense Tracker with Google Sheets as a persistent data layer, delivering real-time financial summaries and eliminating manual entry workflows
+
+### Lesson Planning Portal - Project Lead & Full-Stack Developer
+`Apr – Jul 2025` · CHARUSAT College Project · `Node.js` `React.js` `MySQL` `RBAC`
+
+- Architected an RBAC system with full CRUD across **5 user roles**, automating semester planning workflows for **100+ faculty members**
+- Reduced manual planning effort by **40%** by modelling complex academic data relationships in MySQL and surfacing them through role-specific API endpoints
+- Coordinated **30+ PR reviews** and managed staged deployments, maintaining **zero-downtime production** releases throughout the full project lifecycle
+- Established branching conventions, review workflows, and deployment checklists — embedding DevOps practices into a team with no prior CI/CD exposure
 
 ---
 
-## 🤝 Open Source & Community
-- Hacktoberfest Contributor  
-- GirlScript Summer of Code (GSSoC)  
-- College Open Source Competition – **Rank 8**
+## 🏅 Certifications
+
+- **AWS Certified Solutions Architect – Associate** (SAA-C03) - Feb 2026
+- **AWS Certified Cloud Practitioner** (CLF-C02) - Jan 2026
+
+---
+
+## 🎓 Education
+
+**B.Tech in Computer Science & Engineering**
+Charotar University of Science & Technology (CHARUSAT), Anand, Gujarat · Jul 2023 – May 2027
+**CGPA: 8.87 / 10.00**
 
 ---
 
 ## 📬 Connect With Me
 
-- **LinkedIn:** https://www.linkedin.com/in/priyanshu-valiya  
-- **Twitter (X):** https://x.com/ValiyaPriyanshu  
-- **DEV:** https://dev.to/priyansukumar_valiya_c0bf  
-- **Email:** valiyapriyansukumar@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/priyanshu-valiya
+- **Twitter (X):** https://x.com/ValiyaPriyanshu
+- **DEV:** https://dev.to/priyansukumar_valiya_c0bf
+- **Email:** hello@priyanshuvaliya.dev
